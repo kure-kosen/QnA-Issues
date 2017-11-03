@@ -7,11 +7,8 @@
 3. タイトルと詳細を書きましょう。
 4. 右側の `Labels` で言語やフレームワークなどを設定しておくと、質問一覧で見やすくなるのでおすすめです。
 
-
 ## 作成者
 [chanyou0311](https://github.com/chanyou0311)
 
-
-##その他
+## その他
 [言語カラー参考](https://github.com/abouthiroppy/github-language-color-themes/blob/master/languages.md)
-
